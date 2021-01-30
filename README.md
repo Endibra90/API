@@ -1,3 +1,7 @@
+#### Como descargar el proyecto:
+  -Abriremos el cmd(en el repositorio que queramos) y escribiremos git clone https://github.com/Endibra90/API.git , para tener el codigo listo. 
+
+
 #### Como importa el proyecto:
   
   -Importar el proyecto en cualquier IDE
